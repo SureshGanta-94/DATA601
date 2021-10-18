@@ -1,1 +1,4 @@
 part1: hw 100
+
+It's very good. I'm deducting points only because there is too much unneccessary clutter! Never show the full df. It doesn't add any value
+part2: hw 95
